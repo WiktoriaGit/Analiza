@@ -128,6 +128,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="analizowanie.cpp" />
+    <ClCompile Include="BinaryHandler.cpp" />
+    <ClCompile Include="DataPoint.cpp" />
+    <ClCompile Include="Interator.cpp" />
+    <ClCompile Include="Logger.cpp" />
+    <ClCompile Include="Reader.cpp" />
+    <ClCompile Include="TreeStructure.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BinaryHandler.h" />
+    <ClInclude Include="DataPoint.h" />
+    <ClInclude Include="Iterator.h" />
+    <ClInclude Include="Logger.h" />
+    <ClInclude Include="Reader.h" />
+    <ClInclude Include="TreeStructure.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
