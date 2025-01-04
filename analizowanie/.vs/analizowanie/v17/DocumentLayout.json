@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\DataPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|solutionrelative:DataPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\DataPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|solutionrelative:DataPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\TreeStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|solutionrelative:TreeStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\Interator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|solutionrelative:Interator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\DataPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|solutionrelative:DataPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\BinaryHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -47,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|solutionrelative:TreeStructure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\DataPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|solutionrelative:DataPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\analizowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42A7D8CA-DFAD-41D5-861D-7D83D91C3C92}|analizowanie.vcxproj|solutionrelative:analizowanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,25 +78,24 @@
               "RelativeToolTip": "analizowanie.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-04T20:26:25.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T20:26:25.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "DataPoint.h",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\DataPoint.h",
               "RelativeDocumentMoniker": "DataPoint.h",
               "ToolTip": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\DataPoint.h",
               "RelativeToolTip": "DataPoint.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-04T20:33:44.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TreeStructure.h",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\TreeStructure.h",
               "RelativeDocumentMoniker": "TreeStructure.h",
@@ -104,12 +103,11 @@
               "RelativeToolTip": "TreeStructure.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-04T20:34:11.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T20:34:11.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Reader.h",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\Reader.h",
               "RelativeDocumentMoniker": "Reader.h",
@@ -117,12 +115,11 @@
               "RelativeToolTip": "Reader.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-04T20:34:36.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T20:34:36.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Logger.h",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\Logger.h",
               "RelativeDocumentMoniker": "Logger.h",
@@ -130,12 +127,11 @@
               "RelativeToolTip": "Logger.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-04T20:34:58.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T20:34:58.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BinaryHandler.h",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\BinaryHandler.h",
               "RelativeDocumentMoniker": "BinaryHandler.h",
@@ -143,12 +139,11 @@
               "RelativeToolTip": "BinaryHandler.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-04T20:35:31.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T20:35:31.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Iterator.h",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\Iterator.h",
               "RelativeDocumentMoniker": "Iterator.h",
@@ -156,12 +151,11 @@
               "RelativeToolTip": "Iterator.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-04T20:36:21.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T20:36:21.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BinaryHandler.cpp",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\BinaryHandler.cpp",
               "RelativeDocumentMoniker": "BinaryHandler.cpp",
@@ -169,25 +163,24 @@
               "RelativeToolTip": "BinaryHandler.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-04T20:37:14.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T20:37:14.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DataPoint.cpp",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\DataPoint.cpp",
               "RelativeDocumentMoniker": "DataPoint.cpp",
               "ToolTip": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\DataPoint.cpp",
               "RelativeToolTip": "DataPoint.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-04T20:37:49.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Interator.cpp",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\Interator.cpp",
               "RelativeDocumentMoniker": "Interator.cpp",
@@ -195,12 +188,11 @@
               "RelativeToolTip": "Interator.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-04T20:38:21.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T20:38:21.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Logger.cpp",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\Logger.cpp",
               "RelativeDocumentMoniker": "Logger.cpp",
@@ -208,12 +200,11 @@
               "RelativeToolTip": "Logger.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-04T20:38:40.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T20:38:40.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Reader.cpp",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\Reader.cpp",
               "RelativeDocumentMoniker": "Reader.cpp",
@@ -221,12 +212,11 @@
               "RelativeToolTip": "Reader.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-04T20:38:56.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T20:38:56.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TreeStructure.cpp",
               "DocumentMoniker": "C:\\Users\\wikaf\\OneDrive\\Pulpit\\Analiza\\analizowanie\\TreeStructure.cpp",
               "RelativeDocumentMoniker": "TreeStructure.cpp",
